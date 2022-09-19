@@ -1,0 +1,146 @@
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+a{
+	text-decoration: none;
+}
+ul{
+	list-style: none;
+}
+.blue-header{
+	background-color: #0020F4;
+	height: 387.56px;
+}
+.blue-header img{
+	width: 115px;
+	height: 65px;
+	margin-right: 488px;
+	margin-left: 240px;
+	margin-top: 40px;
+}
+.blue-header a{
+	font-size: 16px;
+	color: #FFFFFF;
+}
+.nav, .nav-ul, .nav-ul li{
+	display: inline-block;
+}
+.nav-ul li{
+	font-size: 16px;
+	margin-right: 43px;
+	color: #FFFFFF;
+}
+.main-section {
+	width: 1195px;
+	margin: auto;
+}
+.main-section img{
+	height: 600px;
+	width: 100%;
+}
+.five-image img{
+	width: 219px;
+	height: 219px;
+	margin-right: 16px;
+}
+.main-section p{
+	color: #171717;
+	font-size: 16px;
+	margin-bottom: 18px;
+}
+.main-section h2{
+	color: #171717;
+	font-size: 28px;
+	margin-top: 30px;
+	margin-bottom: 60px;
+	
+}
+.more{
+	border: none;
+	margin-top: 58px;
+	font-size: 16px;
+	color: #FFFFFF;
+	background-color: #0A22F4;
+	border-radius: 28px;
+	padding: 18px 57px;
+	margin-left: 428px;
+	margin-bottom: 180px;
+}
+.main-section p, .main-section h2, .nav-ul li, .more, .footer h3, .footer p, .phone span, .mail span, .rights, .damzadebulia, .it{
+	font-family: 'ALK Rounded Nusx Med';
+}
+.footer{
+	background-color: #0A22F4;
+	padding-top: 275px;
+	padding-left: 240px;
+}
+.footer h3{
+	font-size: 32px;
+	color: #FFFFFF;
+	margin-bottom: 30px;
+}
+.footer p{
+	font-size: 16px;
+	color: #FFFFFF;
+	width: 463px;
+	margin-bottom: 58px;
+}
+iframe{
+	border-radius: 15px;
+	margin-bottom: 70px;
+}
+.phone img{
+	background-color: white;
+	width: 70px;
+	height: 70px;
+	border-radius: 50px;
+	vertical-align: middle;
+}
+.phone span{
+	font-size: 22px;
+	color: #FFFFFF;
+	margin-left: 22px;
+}
+.mail img{
+	background-color: white;
+	width: 70px;
+	height: 70px;
+	border-radius: 50px;
+	vertical-align: middle;
+}
+.mail span{
+	font-size: 22px;
+	color: #FFFFFF;
+	margin-left: 22px;
+}
+.phone, .mail {
+	display: inline-block;
+	margin-right: 98px;
+}
+.siblings{
+	margin-bottom: 184px;
+}
+.rights{
+	color: #FFFFFF;
+	font-size: 16px;
+	margin-right: 896px;
+	vertical-align: middle;
+}
+.damzadebulia{
+	color: #FFFFFF;
+	font-size: 13px;
+	vertical-align: middle;
+	margin-right: 15px;
+}
+.bottom-div img{
+	vertical-align: middle;
+}
+.it{
+	color: #FFFFFF;
+	font-size: 13px;
+	vertical-align: middle;
+	margin-right: 30px;
+	margin-left: 10px;
+}
